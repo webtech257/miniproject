@@ -1,0 +1,7 @@
+Transaction_ID,Customer_Name,Amount,Status,Backup_Timestamp
+T101,Arun,5000,Success,2026-11-04_13-24-15-178649
+T102,Priya,2500,Success,2026-11-04_13-24-15-178649
+T103,Rahul,7000,Pending,2026-11-04_13-24-15-178649
+T104,Divya,1500,Success,2026-11-04_13-24-15-178649
+T105,Karthik,3000,Failed,2026-11-04_13-24-15-178649
+T106,Anitha,4500,Success,2026-11-04_13-24-15-178649

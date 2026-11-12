@@ -1,0 +1,7 @@
+Transaction_ID,Customer_Name,Amount,Status
+T101,Arun,5000,Success
+T102,Priya,2500,Success
+T103,Rahul,7000,Pending
+T104,Divya,1500,Success
+T105,Karthik,3000,Failed
+T106,Anitha,4500,Success
